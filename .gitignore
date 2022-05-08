@@ -29,5 +29,5 @@ stats.html
 # Test files
 coverage
 
-# taro rn release
-!packages/tiga-ui-demo-rn/release/**
+# Tiga rn release
+!packages/tiga-ui-demo/release/**
